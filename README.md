@@ -13,20 +13,6 @@ I'm a Full-Stack Developer passionate about React, Node.js, and Web Development.
 
 ---
 
-## 🚀 Featured Projects
-
-### Real Estate Listing Platform
-- React + Vite
-- Tailwind CSS
-- Firebase
-
-### Amazon Clone
-- React
-- LocalStorage Authentication
-- Responsive UI
-
----
-
 ## 📊 GitHub Stats
 
 ![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=pxrthhh7&show_icons=true)
